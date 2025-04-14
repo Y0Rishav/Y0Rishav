@@ -22,7 +22,7 @@
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Y0Rishav&show_icons=true&theme=radical" width="48%" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Y0Rishav&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0Rishav&theme=radical"/>
 
 </p>
 
