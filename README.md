@@ -4,12 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Game+Dev+Enthusiast🎮;Frontend+Explorer💻;Currently+Learning+React⚛️&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y0Rishav&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 - 👋 Hi, I’m **@Y0Rishav**
 - 👀 I’m passionate about **Game Development**
 - 🌱 I’m currently diving deep into **React**
-
 
 ---
 
@@ -19,11 +22,11 @@
 - **Game Engines:** Unity, Godot (beginner)
 
 ---
+
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Y0Rishav&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0Rishav&theme=radical"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0Rishav&theme=radical" width="48%" />
 </p>
 
 ---
@@ -32,7 +35,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/y0rishav/)  
 
 ---
-
 
 <!---
 Y0Rishav/Y0Rishav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
