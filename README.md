@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Rishav!</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?lines=Game+Dev+Enthusiast;Frontend+Explorer;Currently+Learning+React&center=true&width=500&height=45" />
+ <img src="https://readme-typing-svg.demolab.com?lines=Game+Dev+Enthusiast;Frontend+Explorer;Currently+Learning+Backend&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
 
 - 👋 Hi, I’m **@Y0Rishav**
 - 👀 I’m passionate about **Game Development**
-- 🌱 I’m currently diving deep into **React**
 
 ---
 
